@@ -5,7 +5,7 @@ import altair as alt
 import os
 import streamlit as st  # pip install streamlit
 import streamlit_authenticator as stauth  # pip install streamlit-authenticator
-import time
+# import time
 import database as db
 import update_database as ud
 from streamlit_option_menu import option_menu

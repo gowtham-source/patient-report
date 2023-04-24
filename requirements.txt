@@ -4,4 +4,3 @@ streamlit-authenticator==0.2.1
 firebase-admin
 deta
 python-dotenv
-pickle
