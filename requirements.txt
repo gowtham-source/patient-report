@@ -1,7 +1,6 @@
-pyrebase
-plotly
-streamlit-authenticator
-firebase
+pyrebase==3.0.27
+plotly==5.11.0
+streamlit-authenticator==0.2.1
 firebase-admin
 deta
 python-dotenv
