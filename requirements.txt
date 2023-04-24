@@ -4,3 +4,4 @@ streamlit-authenticator==0.2.1
 firebase-admin
 deta
 python-dotenv
+streamlit-option-menu==0.3.2
