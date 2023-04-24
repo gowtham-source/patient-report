@@ -1,3 +1,5 @@
 pyrebase
 plotly
 streamlit-authenticator
+firebase
+firebase-admin
