@@ -3,3 +3,5 @@ plotly
 streamlit-authenticator
 firebase
 firebase-admin
+deta
+python-dotenv
